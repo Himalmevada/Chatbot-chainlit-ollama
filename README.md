@@ -1,2 +1,2 @@
 # Chatbot-chainlit-ollama
-Create your first offline chatbot using chainlit and ollama.
+Please read my blog to setup this chatbot : 
